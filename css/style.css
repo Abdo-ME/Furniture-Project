@@ -553,7 +553,7 @@ ul {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 365px) {
   .carousel-indicators {
     bottom: 80px;
   }
